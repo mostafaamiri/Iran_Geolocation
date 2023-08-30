@@ -1,4 +1,4 @@
-city,lat,lon,fa-name,en-name,geo
+city,lat,lon,fa-name,en-name,geo_lat,geo_lon
 آبادان,30.349034,48.282315,,,
 آباده,31.161619,52.645117,,,
 آذرشهر,37.777046,45.971525,,,
